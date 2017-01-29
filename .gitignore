@@ -5,3 +5,4 @@ include/
 selenium/
 node_modules/
 ghostdriver.log
+servers.txt
